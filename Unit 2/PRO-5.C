@@ -1,6 +1,5 @@
-/* Enrollment no- 92500527148*/
-
-/*5. Write a program to find the power of a given number using stack.*/
+/*5. Write a program to find the power of a given number using stack.
+Enrollment no- 92500527148 */
 
 
 #include<stdio.h>
