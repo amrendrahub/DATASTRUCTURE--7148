@@ -1,5 +1,5 @@
-/* Enrollment no- 92500527148 */
-/* 6. Write a program to find GCD of two numbers using stack. */
+/* 6. Write a program to find GCD of two numbers using stack.
+Enrollment no- 92500527148 */
 
 #include <stdio.h>
 
