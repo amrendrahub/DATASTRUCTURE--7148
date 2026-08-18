@@ -1,7 +1,6 @@
-/* Enrollment no- 92500527148 */
-
 /*7. Write a program to find the Smallest Common Divisor of a given
-number.*/
+number.
+Enrollment no- 92500527148 */
 
 #include <stdio.h>
 #define MAX 100
